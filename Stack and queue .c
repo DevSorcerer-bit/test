@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_SIZE 100 // 栈的最大容量
+#define MAX_SIZE 200 // 栈的最大容量
 
 // 栈的结构定义
 typedef struct {
